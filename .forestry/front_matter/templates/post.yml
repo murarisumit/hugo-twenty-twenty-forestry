@@ -24,3 +24,5 @@ fields:
   name: description
   label: description
   description: Meta description
+pages:
+- content/blog/test-title.md
